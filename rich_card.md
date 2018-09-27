@@ -1,5 +1,5 @@
 #json-ld version
-```javascript
+```js
 <script type="application/ld+json">
 "@context": "http://schema.org/",
 "@type": "Recipe",
